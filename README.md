@@ -311,4 +311,4 @@ Save and restart with `python main.py`.
 
 ## License
 
-MIT — use this however you want
+MIT — use this however you want.
